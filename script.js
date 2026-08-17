@@ -11,6 +11,11 @@ const contactForm = document.getElementById('contact-form');
 // Typing Animation
 const typingTexts = [
     'B.Tech CSE (AIML) Student',
+    'MERN Stack Developer',
+    'Full Stack Developer',
+    'React.js Developer',
+    'Node.js Developer',
+    'MongoDB Expert',
     'Python Developer',
     'AI & Machine Learning Enthusiast'
 ];
