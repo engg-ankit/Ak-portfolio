@@ -28,5 +28,9 @@ npm-debug.log*
 *.tmp
 *.temp
 
+# Code workspace files
+*.code-workspace
+.code-workspace
+
 # Local Netlify folder
 .netlify
